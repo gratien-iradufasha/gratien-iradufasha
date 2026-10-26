@@ -1,114 +1,68 @@
-# Hi, I'm Gratien Iradufasha 👋
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00E5FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Gratien+Iradufasha+👋;HTML%2FCSS+Developer;Python+Engineer;JavaScript+Enthusiast;C%2B%2B+Programmer;Building+creative+digital+solutions" />
+</p>
 
-🎓 Software Engineering Student at ALCHE Mauritius
-💻 Passionate about building software solutions that solve real-world problems.
-🌱 Currently exploring **Full-Stack Development, Artificial Intelligence, Cloud Technologies, and Open Source**.
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+</p>
 
-I enjoy turning ideas into practical applications and continuously improving my skills through projects, collaboration, and problem-solving.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=gratien-iradufasha&label=Profile+Views&color=0e75b6&style=flat" />
+</p>
 
----
+<h3 align="center">🚀 About Me</h3>
 
-## 🚀 About Me
+<p align="center">
+  I am <b>Gratien Iradufasha</b>, a passionate developer who enjoys creating <br>
+  clean, functional, and visually engaging digital experiences.
+</p>
 
-* 🔭 Currently working on software projects focused on real-world impact.
-* 🌱 Learning modern web technologies and software engineering best practices.
-* 💡 Interested in **Artificial Intelligence, Web Development, Healthcare Technology, and Digital Innovation**.
-* 🤝 Open to collaborating on meaningful software projects.
-* 🎯 Goal: Become a skilled software engineer and contribute to impactful technology solutions.
+<p align="center">
+  I love working with <b>HTML/CSS</b>, <b>Python</b>, <b>JavaScript</b>, and <b>C++</b>, <br>
+  turning ideas into reality through code, creativity, and problem-solving.
+</p>
 
----
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" />
+</p>
 
-## 🛠️ Tech Stack
+<h3 align="center">🌐 Connect With Me</h3>
 
-### Languages
+<p align="center">
+  <a href="https://www.linkedin.com/in/gratien-iradufasha-05966b329/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.facebook.com/iradufasha.gratien" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/_gratien._?igsh=bXVjcjQ3NWZ1d2ox" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://x.com/Gratien35434783" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
+  </a>
+</p>
 
-* Python
-* JavaScript
-* HTML
-* CSS
+<h3 align="center">📊 GitHub Stats</h3>
 
-### Frontend Development
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=gratien-iradufasha&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
 
-* React.js
-* Responsive Web Design
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gratien-iradufasha&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
-### Backend Development
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gratien-iradufasha&theme=tokyonight&hide_border=true" />
+</p>
 
-* Django
-* REST APIs
+<h3 align="center">💡 Current Focus</h3>
 
-### Databases
-
-* SQL
-* PostgreSQL / MySQL
-
-### Tools & Platforms
-
-* Git & GitHub
-* Linux
-* VS Code
-* Docker (Learning)
-
----
-
-## 📌 Featured Projects
-
-### 🏥 HealthBridge Connect
-
-A healthcare technology solution focused on improving access to health information and connecting people with healthcare services.
-
-**Technologies:** Python, Web Technologies, AI concepts
-
----
-
-### 📚 HopeTrack
-
-A database management solution designed to improve student tracking and information management.
-
-**Technologies:** Microsoft Power Platform, Dataverse
-
----
-
-### 💡 NATEC Innovation Project
-
-An engineering innovation project focused on improving manufacturing efficiency through technology and process optimization.
-
-[---
-
-## 🌱 Currently Learning
-
-* Advanced React Development
-* Django Backend Development
-* Data Structures & Algorithms
-* Software Architecture
-* Artificial Intelligence
-* Cloud Computing
-
----
-
-## 📊 My Development Journey
-
-I believe in continuous learning and building through practice:
-
-* Writing clean and maintainable code
-* Creating real-world applications
-* Improving problem-solving skills
-* Contributing to open-source projects
-
----
-
-## 📫 Connect With Me
-
-* 💼 LinkedIn: https://www.linkedin.com/in/iradufasha-gratien-05966b329/
-* 🌐 Portfolio: [Coming Soon]
-* 📧 Email: [gratiena@tuta.io
-
----
-
-## ⚡ Fun Fact
-
-I enjoy learning new technologies, exploring how systems work, and building solutions that can create positive impact.
-
----
-
-⭐ Feel free to explore my repositories and follow my journey as I continue growing as a software engineer.
+<p align="center">
+  Learning, building, improving, and pushing my ideas into code with creativity and consistency.
+</p>
